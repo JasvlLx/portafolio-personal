@@ -1,0 +1,18 @@
+.projects {
+    background: #fff;
+    color: #333;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
