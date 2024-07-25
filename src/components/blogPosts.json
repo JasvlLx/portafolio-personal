@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Mi Primer Proyecto",
+      "date": "Julio 25, 2024",
+      "summary": "Un resumen breve de mi primer proyecto y lo que aprendí.",
+      "content": "Contenido completo del post del blog."
+    },
+    {
+      "id": 2,
+      "title": "Consejos para Desarrolladores Junior",
+      "date": "Agosto 10, 2024",
+      "summary": "Algunos consejos útiles para desarrolladores que están comenzando.",
+      "content": "Contenido completo del post del blog."
+    }
+  ]
+  

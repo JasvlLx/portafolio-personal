@@ -1,0 +1,22 @@
+.blog-post {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+  }
+  
+  .blog-post h3 {
+    margin-top: 0;
+  }
+  
+  .blog-post .read-more {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  .blog-post .read-more:hover {
+    text-decoration: underline;
+  }
+  
