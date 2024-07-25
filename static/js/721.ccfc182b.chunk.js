@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportafolio_personal=self.webpackChunkportafolio_personal||[]).push([[721],{721:(o,e,a)=>{a.r(e),a.d(e,{default:()=>i});a(43);var r=a(696),s=a(579);const i=function(){const o=(0,r.zh)({opacity:1,from:{opacity:0},delay:200});return(0,s.jsxs)(r.CS.section,{style:o,id:"home",className:"home",children:[(0,s.jsx)("h1",{children:"Bienvenido a mi Portafolio"}),(0,s.jsx)("p",{children:"Soy [Tu Nombre], un desarrollador web apasionado por crear aplicaciones web incre\xedbles."})]})}}}]);
+//# sourceMappingURL=721.ccfc182b.chunk.js.map
